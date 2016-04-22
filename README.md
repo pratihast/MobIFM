@@ -1,6 +1,7 @@
 # MobIFM
 An offline ‘Geo-Fence’ application: the development of a community-based interective forest monioting mobile application
 for REDD+ monitoring. 
+Data, Code, Application ( still under developmnet) and Manual accompanying the concept is inculed here. 
 
 # Introduction
 Remote sensing is the backbone of national forest monitoring systems. For REDD+ MRV, it is important to engage local communities
@@ -10,7 +11,7 @@ tool that can work, in an integrated nature, with remote sensing and community- 
 In this context, the Laboratory of Geo-Information Science and Remote Sensing (GRS) at Wageningen University 
 is currently developing and testing an interactive mobile-based forest monitoring tool in different parts of the world
 (e.g. Ethiopia and Peru). The developed interactive forest monitoring (IFM) tool incorporates user-friendly design; 
-has the potential to facilitate near-real-time forest change alerts based on remote sensing analysis; and can provide data collection, 
+has the potential to facilitate near-real-time forest change alerts based on remote sensing analysis; and can provide data collection,
 storage and processing in partnership with local communities.
 
 This open-source tool allows for near-real-time forest monitoring:
